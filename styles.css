@@ -6,6 +6,10 @@
     font-family: 'Arial', sans-serif;
 }
 
+#links {
+    text-align: center;
+}
+
 body {
     line-height: 1.6;
     color: #333;
@@ -41,6 +45,10 @@ nav ul li a {
     text-align: center;
     padding: 4rem 2rem;
     background-color: #f4f4f4;
+}
+
+#about {
+    text-align: center;
 }
 
 #hero .btn {
